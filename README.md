@@ -254,7 +254,14 @@ Each file includes:
 - Enforcing structure and validation
 - Providing full auditability
 
+ ## 📜 License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+It is intended for academic and non-commercial use only.
+
+
 It is intentionally scoped, modular, and designed for extensibility.
+
 
 
 
