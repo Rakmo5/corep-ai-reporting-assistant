@@ -1,0 +1,24 @@
+{
+  "template": "C01.00",
+  "description": "Own Funds and Capital Adequacy",
+  "fields": {
+    "r010": "CET1 Capital",
+    "r015": "AT1 Capital",
+    "r020": "Tier 1 Capital",
+    "r025": "Tier 2 Capital",
+    "r030": "Total Capital",
+    "r050": "Risk Weighted Assets",
+    "r060": "CET1 Ratio",
+    "r070": "Tier 1 Ratio",
+    "r080": "Total Capital Ratio"
+  },
+  "required": ["r010", "r015", "r025", "r050"],
+  "derived": {
+    "r020": "r010 + r015",
+    "r030": "r020 + r025",
+    "r060": "r010 / r050",
+    "r070": "r020 / r050",
+    "r080": "r030 / r050"
+  },
+  "currency": "GBP"
+}

@@ -1,0 +1,28 @@
+# LLM + API
+groq
+
+# RAG / Embeddings
+sentence-transformers
+faiss-cpu
+chromadb
+
+# Backend (optional, future)
+fastapi
+uvicorn
+
+# Config
+pyyaml
+python-dotenv
+
+# Data handling
+pydantic
+
+# Testing
+pytest
+
+# Utilities
+tqdm
+rich
+
+
+streamlit

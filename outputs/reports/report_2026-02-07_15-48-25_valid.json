@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-02-07_15-48-25",
+  "status": "valid",
+  "report": {
+    "template": "C01.00",
+    "fields": {
+      "r010": 0.0,
+      "r015": 0.0,
+      "r020": 0.0,
+      "r025": 0.0,
+      "r030": 0.0,
+      "r050": 1.0,
+      "r060": 0.0,
+      "r070": 0.0,
+      "r080": 0.0
+    },
+    "sources": {
+      "r010": "Rule 5",
+      "r015": "Rule 5",
+      "r020": "Rule 5",
+      "r025": "Rule 5",
+      "r030": "Rule 5",
+      "r060": "Rule 10",
+      "r070": "Rule 10",
+      "r080": "Rule 10"
+    },
+    "currency": "GBP"
+  },
+  "validation_errors": []
+}

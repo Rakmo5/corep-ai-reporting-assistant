@@ -1,0 +1,21 @@
+Rule 1: Common Equity Tier 1 (CET1) capital must be reported in field r010.
+
+Rule 2: Additional Tier 1 (AT1) capital must be reported in field r015.
+
+Rule 3: Tier 1 capital is the sum of CET1 and AT1 and must be reported in field r020.
+
+Rule 4: Tier 2 capital must be reported in field r025.
+
+Rule 5: Total Capital is calculated as Tier 1 plus Tier 2 and must be reported in field r030.
+
+Rule 6: Risk Weighted Assets (RWA) must be reported in field r050.
+
+Rule 7: CET1 Ratio is calculated as CET1 divided by RWA and must be reported in field r060.
+
+Rule 8: Tier 1 Ratio is calculated as Tier 1 divided by RWA and must be reported in field r070.
+
+Rule 9: Total Capital Ratio is calculated as Total Capital divided by RWA and must be reported in field r080.
+
+Rule 10: All capital ratios must be expressed as percentages.
+
+Rule 11: Reporting currency must be GBP.

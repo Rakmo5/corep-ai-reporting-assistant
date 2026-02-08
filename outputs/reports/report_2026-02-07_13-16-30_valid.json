@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-02-07_13-16-30",
+  "status": "valid",
+  "report": {
+    "template": "C01.00",
+    "fields": {
+      "r010": 100,
+      "r020": 50,
+      "r030": 150
+    },
+    "sources": {
+      "r010": "Rule 1",
+      "r020": "Rule 2",
+      "r030": "Rule 3"
+    },
+    "currency": "GBP"
+  },
+  "validation_errors": []
+}

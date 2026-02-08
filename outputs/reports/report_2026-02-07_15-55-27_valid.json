@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-02-07_15-55-27",
+  "status": "valid",
+  "report": {
+    "template": "C01.00",
+    "fields": {
+      "r010": 1500.0,
+      "r015": 500.0,
+      "r020": 2000.0,
+      "r025": 700.0,
+      "r030": 2700.0,
+      "r050": 6000.0,
+      "r060": 25.0,
+      "r070": 33.33,
+      "r080": 45.0
+    },
+    "sources": {
+      "r010": "Rule 1",
+      "r015": "No rule applies",
+      "r020": "Rule 1",
+      "r025": "No rule applies",
+      "r030": "Rule 5",
+      "r060": "No rule applies",
+      "r070": "No rule applies",
+      "r080": "No rule applies"
+    },
+    "currency": "GBP"
+  },
+  "validation_errors": []
+}

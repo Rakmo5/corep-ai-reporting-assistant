@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-02-07_20-59-14",
+  "status": "valid",
+  "report": {
+    "template": "C01.00",
+    "fields": {
+      "r010": 800.0,
+      "r015": 200.0,
+      "r020": 1000.0,
+      "r025": 300.0,
+      "r030": 1300.0,
+      "r050": 5000.0,
+      "r060": 16.0,
+      "r070": 20.0,
+      "r080": 26.0
+    },
+    "sources": {
+      "r010": "Rule 1: Common Equity Tier 1 (CET1) capital must be reported in field r010.",
+      "r015": "Rule 2: Additional Tier 1 (AT1) capital must be reported in field r015.",
+      "r020": "Rule 3: Tier 1 capital is the sum of CET1 and AT1 and must be reported in field r020.",
+      "r025": "Rule 4: Tier 2 capital must be reported in field r025.",
+      "r030": "Rule 5: Total Capital is calculated as Tier 1 plus Tier 2 and must be reported in field r030.",
+      "r060": "Rule 7: CET1 Ratio is calculated as CET1 divided by RWA and must be reported in field r060.",
+      "r070": "Rule 8: Tier 1 Ratio is calculated as Tier 1 divided by RWA and must be reported in field r070.",
+      "r080": "Rule 9: Total Capital Ratio is calculated as Total Capital divided by RWA and must be reported in field r080."
+    },
+    "currency": "GBP"
+  },
+  "validation_errors": []
+}
