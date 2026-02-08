@@ -129,26 +129,26 @@ http://localhost:8501
 ### 3. Provide Input Data
 
 In the web interface:
-    1. Enter a natural-language regulatory question.
-    2. Describe the reporting scenario.
-    3. Provide financial values:
-        - CET1 Capital
-        - AT1 Capital
-        - Tier 2 Capital
-        - Risk-Weighted Assets (RWA)
-    4. Select reporting currency.
-    5. Click Generate Report.
+1. Enter a natural-language regulatory question.
+2. Describe the reporting scenario.
+3. Provide financial values:
+    - CET1 Capital
+    - AT1 Capital
+    - Tier 2 Capital
+    - Risk-Weighted Assets (RWA)
+4. Select reporting currency.
+5. Click Generate Report.
 
 ---
 
 ### 4. Generate COREP Report
 
 After submission, the system will:
-    1. Retrieve relevant regulatory rules.
-    2. Match rules to reporting fields.
-    3. Compute derived values.
-    4. Validate the output.
-    5. Generate an auditable COREP report.
+1. Retrieve relevant regulatory rules.
+2. Match rules to reporting fields.
+3. Compute derived values.
+4. Validate the output.
+5. Generate an auditable COREP report.
 
 The final report is displayed in JSON format and saved locally.
 
@@ -255,5 +255,6 @@ Each file includes:
 - Providing full auditability
 
 It is intentionally scoped, modular, and designed for extensibility.
+
 
 
