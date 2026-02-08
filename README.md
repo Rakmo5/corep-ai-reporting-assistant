@@ -193,7 +193,7 @@ Each file includes:
 - Validation status
 - Saved report artifact
 
-### 📸 Screenshot placeholder 
+### 📸 Screenshots 
 
 --- 
 
@@ -255,4 +255,5 @@ Each file includes:
 - Providing full auditability
 
 It is intentionally scoped, modular, and designed for extensibility.
+
 
